@@ -1,0 +1,7 @@
+{
+  "name": "busqueda",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
